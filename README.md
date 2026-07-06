@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ~~~Air Quality Index (AQI) Prediction — Indian Cities
 
 A machine learning project to predict Air Quality Index (AQI) 
@@ -125,3 +126,7 @@ grow, not just to submit.
 
 Feel free to connect on LinkedIn or raise an issue if 
 you find anything to improve!
+=======
+# aqi-prediction-india
+Predicting Air Quality Index for Indian cities using Machine Learning
+>>>>>>> ebce442f8fcb37d8b17edc89c24d79386dcab131
