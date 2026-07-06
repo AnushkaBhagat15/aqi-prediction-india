@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ~~~Air Quality Index (AQI) Prediction — Indian Cities
 
 A machine learning project to predict Air Quality Index (AQI) 
